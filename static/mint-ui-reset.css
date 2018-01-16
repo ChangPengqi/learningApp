@@ -1,0 +1,29 @@
+.mint-indicator-spin{
+  display: block
+}
+.mint-spinner-fading-circle{
+  margin:0 auto;
+}
+.mint-cell-wrapper{
+	padding:0;
+	margin:0 0.2rem;
+	width:auto;
+	border-bottom: 1px solid #efefef
+}
+.mint-radiolist-label{
+	text-align: left
+}
+.mint-radio-label{
+	font-size: .18rem
+}
+.mint-swipe-indicators{
+  bottom:-0.1rem;
+}
+.mint-swipe-indicator{
+  background: #fff;
+  opacity: 1
+}
+.mint-swipe-indicator.is-active{
+  background: #35c3fc;
+  opacity: 1;
+}
